@@ -35,9 +35,6 @@ Use the arrow keys (left/right) to navigate between input fields.
 Hints can be used if needed, which reveal random letters from the word. The number of available hints depends on the word's length.
 If you guess the word correctly, a firework animation is triggered, and you can reset the game by clicking the "Play Again" button.
 If you fail to guess the word after all tries, the game will display the correct word, and you can start a new round by clicking the "Play Again" button.
-Setup
-Clone the repository:
-Open the index.html file in your preferred browser.
 Game Logic
 Random Word Selection: A word is randomly chosen from an array of predefined words.
 Number of Tries: The player has 6 attempts to guess the correct word.
